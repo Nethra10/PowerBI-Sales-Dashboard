@@ -82,26 +82,47 @@ Some of the important DAX measures used in this project include:
 ---
 
 ## 📌 Dashboard Pages
+# 📊 Power BI Sales Dashboard
 
-### Dashboard
-Executive overview with KPI Cards and business summary.
+## Dashboard Preview
 
-### Sales Analysis
-Detailed sales performance by category, region, and customer segment.
+### Executive Dashboard
+![Executive Dashboard](Dashboard.jpg)
+
+### KPI Cards
+![KPI Cards](Cards.jpg)
+
+### Card Visual
+![Card Visual](Card Visual.jpg)
+
+### Current Year vs Previous Year
+![CY vs PY](CY vs PY.jpg)
 
 ### Year-over-Year Analysis
-Comparison of current year performance against previous year.
+![YOY Analysis](YOY %.jpg)
 
 ### Month-over-Month Analysis
-Monthly sales trend and growth analysis.
+![MOM Analysis](MOM %.jpg)
 
-### Region Analysis
-Regional sales and profit performance.
+### Drill Up & Down
+![Drill Up & Down](Drill up & down.png)
 
-### Top N Analysis
-Dynamic Top N Sub-Category analysis using a numeric parameter.
+### Details Area Usage
+![Details Area Usage](Details Area Usage.jpg)
 
----
+### Details Line Chart
+![Details Line Chart](Details Line Chart.jpg)
+
+### Region by Sales Tooltip
+![Tooltip](Region by Sales (Tooltip).jpg)
+
+### Bookmark
+![Bookmark](BookMark.jpg)
+
+### Numeric Parameter
+![Numeric Parameter](Numeric.jpg)
+
+
 
 ## 📊 Business Insights
 
