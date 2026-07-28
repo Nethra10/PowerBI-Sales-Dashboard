@@ -93,34 +93,34 @@ Some of the important DAX measures used in this project include:
 ![KPI Cards](Cards.jpg)
 
 ### Card Visual
-![Card Visual](CardVisual.jpg)
+![Card Visual](<Card Visual.jpg>)
 
 ### Current Year vs Previous Year
-![CY vs PY](CYvsPY.jpg)
+![CY vs PY](<CY vs PY.jpg>)
 
 ### Year-over-Year Analysis
-![YOY Analysis](YOY%.jpg)
+![YOY Analysis](<YOY %.jpg>)
 
 ### Month-over-Month Analysis
-![MOM Analysis](MOM%.jpg)
+![MOM Analysis](<MOM %.jpg>)
 
 ### Drill Up & Down
-![Drill Up & Down](Drillup&down.png)
+![Drill Up & Down](<Drill up & down.png>)
 
 ### Details Area Usage
-![Details Area Usage](DetailsAreaUsage.jpg)
+![Details Area Usage](<Details Area Usage.jpg>)
 
 ### Details Line Chart
-![Details Line Chart](DetailsLineChart.jpg)
+![Details Line Chart](<Details Line Chart.jpg>)
 
 ### Region by Sales Tooltip
-![Tooltip](RegionbySales(Tooltip).jpg)
+![Tooltip](<Region by Sales (Tooltip).jpg>)
 
 ### Bookmark
-![Bookmark](BookMark.jpg)
+![Bookmark](<BookMark.jpg>)
 
 ### Numeric Parameter
-![Numeric Parameter](Numeric.jpg)
+![Numeric Parameter](<Numeric.jpg>)
 
 
 
